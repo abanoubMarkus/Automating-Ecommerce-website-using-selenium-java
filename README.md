@@ -13,8 +13,10 @@ automaing an E-commerce website using selenium java and applying the following:
 
 6-report using testng lisnters
 
-7-cucumber wrapper(concatenating cucumber with testng)
+7-taking screenshot for failed Testcases
 
-8-data provider from json file
+8-cucumber wrapper(concatenating cucumber with testng)
 
-9-jenkins
+9-data provider from json file
+
+10-jenkins
