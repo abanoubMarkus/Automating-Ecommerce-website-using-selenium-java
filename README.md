@@ -11,12 +11,14 @@ automaing an E-commerce website using selenium java and applying the following:
 
 5- Retry analayzer
 
-6-report using testng lisnters
+6-parallel execution
 
-7-taking screenshot for failed Testcases
+7-report using testng lisnters
 
-8-cucumber wrapper(concatenating cucumber with testng)
+8-taking screenshot for failed Testcases
 
-9-data provider from json file
+9-cucumber wrapper(concatenating cucumber with testng)
 
-10-jenkins
+10-data provider from json file
+
+11-jenkins
