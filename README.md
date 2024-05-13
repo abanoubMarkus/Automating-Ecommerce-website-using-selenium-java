@@ -1,5 +1,7 @@
 # Automating-Ecommerce-website-using-selenium-java
-automaing an E-commerce website using selenium java and applying the following:
+automaing an E-commerce website using selenium java
+
+creating to simple testcases to sumbit order and applying the following:
 
 1-pom (page object model)
 
