@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="All Test Suite">
+
+    <listeners>
+        <listener class-name="org.example.testComponent.listeners">
+        </listener>
+    </listeners>
+
+
+    <test name="Submit Order test1">
+        <classes>
+        <class name="org.example.Tests.CheckOutTest">
+            <methods>
+                <include name="submitOrderWithAxis"/>
+            </methods>
+        </class>
+        </classes>
+</test>
+
+    <test name="Submit Order test2">
+        <classes>
+            <class name="org.example.Tests.CheckOutTest">
+                <methods>
+                    <include name="submitOrderWithStreams"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+
+
+
+</suite>
